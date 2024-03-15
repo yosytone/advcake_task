@@ -1,6 +1,6 @@
 <?php
 require_once 'vendor/autoload.php';
-require_once 'index.php'; 
+require_once 'reverseLettersInWords.php'; 
 
 use PHPUnit\Framework\TestCase;
 
