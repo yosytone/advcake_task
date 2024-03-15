@@ -1,2 +1,1 @@
-<h3>Результаты Unit-теста<h3>  <br/>
-![image](https://github.com/yosytone/advcake_task/assets/90895680/e6d2f759-d4ee-49b5-b531-284c829905ca)
+![Результаты Unit-теста](https://github.com/yosytone/advcake_task/assets/90895680/e6d2f759-d4ee-49b5-b531-284c829905ca)
